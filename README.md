@@ -50,3 +50,5 @@ MIT License - xem file [LICENSE.md](LICENSE.md) để biết thêm chi tiết.
 ## Liên hệ
 - Facrbook - [Nguyễn Tuấn Thành](https://www.facebook.com/ntthanh2603)
 - Link dự án: [https://github.com/ntthanh2603/detect-photos-18-years-and-older.git](https://github.com/ntthanh2603/detect-photos-18-years-and-older.git)
+
+![Image alt text](docs/images/thanks-for-watching.jpg)
