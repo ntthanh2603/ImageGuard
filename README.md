@@ -22,7 +22,7 @@ Dự án này là một ứng dụng web được xây dựng để nhận diệ
 
 ```bash
 # Clone repository
-https://github.com/ntthanh2603/detect-photos-18-years-and-older.git
+git clone https://github.com/ntthanh2603/detect-photos-18-years-and-older.git
 
 # Di chuyển vào thư mục dự án
 cd detect-photos-18-years-and-older
