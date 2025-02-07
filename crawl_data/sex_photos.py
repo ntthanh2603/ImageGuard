@@ -67,7 +67,7 @@ def main():
 
     time.sleep(randint(1,2))
     
-    df_links = pd.read_csv(r'../data/link.csv')
+    df_links = pd.read_csv(r'../data/link_sex_photos.csv')
 
     time.sleep(randint(1,2))
 
