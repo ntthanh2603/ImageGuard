@@ -12,7 +12,7 @@ Dự án này xây dựng một mô hình học sâu để phân loại ảnh th
 - **Batch size**: Không được cung cấp, giả định 32 (giá trị thông dụng).
 - **Optimizer**: Không được cung cấp, giả định Adam.
 - **Loss function**: CrossEntropyLoss (giả định).
-- **Kỹ thuật**: Early stopping với patience=15, lưu mô hình tốt nhất dựa trên validation accuracy.
+- **Kỹ thuật**: Early stopping với patience=5, lưu mô hình tốt nhất dựa trên validation accuracy.
 
 ### 2.2. Kết Quả Huấn Luyện
 Dưới đây là kết quả loss và validation accuracy qua 15 epoch:
