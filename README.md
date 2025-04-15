@@ -58,4 +58,4 @@ Dự án được phát hành dưới **MIT License**. Xem chi tiết tại file
 Nếu bạn có câu hỏi hoặc muốn trao đổi, hãy liên hệ với tôi qua:
 
 - 🌍 **Facebook**: [Nguyễn Tuấn Thành](https://www.facebook.com/ntthanh2603)
-- ✉️ **Email**: tuanthanh2kk4@gmail.com (thay bằng email thật nếu cần).
+- ✉️ **Email**: tuanthanh2kk4@gmail.com.
