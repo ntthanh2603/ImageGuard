@@ -4,10 +4,10 @@
 
 Báo cáo này tổng hợp và so sánh kết quả thực nghiệm của bốn mô hình phân loại ảnh khác nhau:
 
-1. **EfficientNet**: Mô hình phân loại ảnh thành 3 nhãn ("Adult", "Normal", "Violent") qua 15 epochs
-2. **ResNet34**: Mô hình sử dụng kiến trúc với kết nối tắt (skip connections) qua 100 epochs
-3. **Vision Transformer (ViT)**: Mô hình dựa trên cơ chế Attention trên tập dữ liệu MNIST qua 100 epochs
-4. **YOLOv8n**: Mô hình phân loại ảnh thành 3 nhãn (16+/normal/bạo lực) qua 10 epochs
+1. **EfficientNet**
+2. **ResNet34**
+3. **Vision Transformer (ViT)**
+4. **YOLOv8n**
 
 ## 2. So Sánh Cấu Hình Huấn Luyện
 
@@ -15,7 +15,6 @@ Báo cáo này tổng hợp và so sánh kết quả thực nghiệm của bốn
 | --------------------- | --------------------------- | ---------------------- | ------------------ | ---------------------- |
 | **Số epochs**         | 15                          | 100                    | 100                | 10                     |
 | **Learning rate**     | 0.001 (giả định)            | 0.1→0.01→0.001→0.0001  | 0.00001 (cố định)  | Schedule tăng-giảm     |
-| **Bài toán**          | Phân loại 3 nhãn            | Không rõ               | MNIST              | Phân loại 3 nhãn (16+) |
 | **Kỹ thuật đặc biệt** | Early stopping (patience=5) | Learning rate schedule | Không              | Learning rate schedule |
 
 ## 3. So Sánh Kết Quả Thực Nghiệm
