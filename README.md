@@ -150,9 +150,13 @@ Từ kết quả thực nghiệm của cả bốn mô hình, có thể rút ra n
 - **Dữ liệu phức tạp với nhiều chi tiết**: ResNet34 với learning rate schedule
 - **Dữ liệu cấu trúc không gian phức tạp**: Vision Transformer (sau khi tối ưu hóa)
 
-## 8. Tài Liệu Tham Khảo
+## 8. Báo cáo cho từng model
 
 1. Báo cáo phân tích mô hình EfficientNet phân loại ảnh thành ba nhãn
 2. Báo cáo kết quả thực nghiệm mô hình ResNet34
 3. Báo cáo kết quả thực nghiệm mô hình Vision Transformer
 4. Báo cáo phân tích hiệu suất dự án phân loại ảnh 16+ sử dụng mô hình YOLOv8n
+
+[Dữ liệu cho dự án](https://drive.google.com/drive/folders/1WFXCRMUw7Pw0JI7nRGtm0wXDQPK7Cvx6?usp=drive_link)
+
+Nếu bạn thấy có gì sai sót hay cần cải thiện thì đừng ngại thêm issue để cộng đồng AI ngày càng phát triển nhé :))
